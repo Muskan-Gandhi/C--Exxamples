@@ -1,0 +1,8 @@
+C:\Users\Raytex\source\repos\exchange-task\exchange-task\bin\Debug\exchange-task.exe.config
+C:\Users\Raytex\source\repos\exchange-task\exchange-task\bin\Debug\exchange-task.exe
+C:\Users\Raytex\source\repos\exchange-task\exchange-task\bin\Debug\exchange-task.pdb
+C:\Users\Raytex\source\repos\exchange-task\exchange-task\obj\Debug\exchange-task.csproj.AssemblyReference.cache
+C:\Users\Raytex\source\repos\exchange-task\exchange-task\obj\Debug\exchange-task.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raytex\source\repos\exchange-task\exchange-task\obj\Debug\exchange-task.csproj.CoreCompileInputs.cache
+C:\Users\Raytex\source\repos\exchange-task\exchange-task\obj\Debug\exchange-task.exe
+C:\Users\Raytex\source\repos\exchange-task\exchange-task\obj\Debug\exchange-task.pdb
