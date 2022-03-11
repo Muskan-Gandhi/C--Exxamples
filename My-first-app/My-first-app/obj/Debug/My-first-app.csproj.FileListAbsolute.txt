@@ -1,0 +1,8 @@
+C:\Users\Raytex\Desktop\My-first-app\My-first-app\bin\Debug\My-first-app.exe.config
+C:\Users\Raytex\Desktop\My-first-app\My-first-app\bin\Debug\My-first-app.exe
+C:\Users\Raytex\Desktop\My-first-app\My-first-app\bin\Debug\My-first-app.pdb
+C:\Users\Raytex\Desktop\My-first-app\My-first-app\obj\Debug\My-first-app.csproj.AssemblyReference.cache
+C:\Users\Raytex\Desktop\My-first-app\My-first-app\obj\Debug\My-first-app.csproj.SuggestedBindingRedirects.cache
+C:\Users\Raytex\Desktop\My-first-app\My-first-app\obj\Debug\My-first-app.csproj.CoreCompileInputs.cache
+C:\Users\Raytex\Desktop\My-first-app\My-first-app\obj\Debug\My-first-app.exe
+C:\Users\Raytex\Desktop\My-first-app\My-first-app\obj\Debug\My-first-app.pdb
